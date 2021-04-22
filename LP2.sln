@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula9", "Aula9\Aula9.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaMagica", "LojaMagica\LojaMagica.csproj", "{7081866C-2EAE-4433-B9F0-EF512257565D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula10", "Aula10\Aula10.csproj", "{7CDED898-FC22-4D50-8673-6F52D6A48AA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{7081866C-2EAE-4433-B9F0-EF512257565D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7081866C-2EAE-4433-B9F0-EF512257565D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7081866C-2EAE-4433-B9F0-EF512257565D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDED898-FC22-4D50-8673-6F52D6A48AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDED898-FC22-4D50-8673-6F52D6A48AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDED898-FC22-4D50-8673-6F52D6A48AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDED898-FC22-4D50-8673-6F52D6A48AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
