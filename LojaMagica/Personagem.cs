@@ -26,7 +26,7 @@ namespace LojaMagica
                 Console.Write("{0}\t", item.Nome);
             }
             Console.WriteLine("]");
-            Console.WriteLine("============================");
+            Console.WriteLine("-----------------------");
         }
 
         public void PegarItem(Item item)

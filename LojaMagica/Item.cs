@@ -20,7 +20,7 @@ namespace LojaMagica
             Console.WriteLine("Nome:\t\t{0}", this.Nome);
             Console.WriteLine("Descrição:\t{0}", this.Descricao);
             Console.WriteLine("Moedas:\t\t{0}", this.Moedas);
-            Console.WriteLine("============================");
+            Console.WriteLine("-----------------------");
         }
     }
 }
