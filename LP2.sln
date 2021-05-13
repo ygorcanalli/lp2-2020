@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insetos", "Insetos\Insetos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula12", "Aula12\Aula12.csproj", "{3D3B21BE-C49A-4623-A79E-2013A9BB5BF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula13", "Aula13\Aula13.csproj", "{0C96DEB8-3ECC-4184-AD0B-9A160E948A6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{3D3B21BE-C49A-4623-A79E-2013A9BB5BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D3B21BE-C49A-4623-A79E-2013A9BB5BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D3B21BE-C49A-4623-A79E-2013A9BB5BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C96DEB8-3ECC-4184-AD0B-9A160E948A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C96DEB8-3ECC-4184-AD0B-9A160E948A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C96DEB8-3ECC-4184-AD0B-9A160E948A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C96DEB8-3ECC-4184-AD0B-9A160E948A6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
