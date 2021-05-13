@@ -25,16 +25,13 @@ namespace Aula13
         
             // adicionando três unidades do item
             carrinho.Adicionar(alface123, 3);
-
-            List<Produto> colecaoAdolbo = new List<Produto>();
-            colecaoAdolbo.Add(cottonshopi);
-            colecaoAdolbo.Add(premillere);
-        
+            
             // adicionando uma lista de itens no carrinho
-            carrinho.Adicionar(colecaoAdolbo);
+            carrinho.Adicionar(new List<Produto>{cottonshopi, premillere});
 
             carrinho.Adicionar(corehul);
             
+            // adicionando produtos ao carrinho
             carrinho.Adicionar(mausi, 3);
             carrinho.Adicionar(lepetope);
             
