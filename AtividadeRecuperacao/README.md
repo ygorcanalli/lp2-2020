@@ -2,7 +2,7 @@
 
 A presente avitidade de recuperação consistem e utilizar os conceitos de orientação a objeto para desenvolver as classes ausentes no projeto. O contexto do projeto é uma pequena escola infantil, onde existem professores, alunos e turmas. 
 
-O objetivo é fazer com que a classe Main disponibilizada seja executada produzindo como saída os relatórios apresentados ao final deste documento. A interface IImprimível e a classe Relatório também já estão prontas e disponíveis para uso.
+O objetivo é fazer com que a classe [Main](main.cs) disponibilizada seja executada produzindo como saída os relatórios apresentados ao final deste documento. A interface [IImprimível](IImprimivel.cs) e a classe [Relatório](relatorio.cs) também já estão prontas e disponíveis para uso.
 
 ## Classes a serem implementadas
 
