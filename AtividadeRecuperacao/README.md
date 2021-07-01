@@ -30,7 +30,7 @@ Para o bom desenvolvimento desta tarefa você deverá fazer uso dos seguintes co
  - Classes
  - Objetos
  - Métodos
- - ConstrutoresWS
+ - Construtores
  - Sobrescrita
  - Herança
  - Interfaces
