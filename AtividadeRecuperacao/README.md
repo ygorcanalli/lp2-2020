@@ -1,8 +1,8 @@
 # Atividade de Recuperação
 
-A presente avitidade de recuperação consistem e utilizar os conceitos de orientação a objeto para desenvolver as classes faltantes no projeto. O contexto do projeto é uma pequena escola infantil, onde existem professores, alunos e turmas. 
+A presente avitidade de recuperação consistem e utilizar os conceitos de orientação a objeto para desenvolver as classes ausentes no projeto. O contexto do projeto é uma pequena escola infantil, onde existem professores, alunos e turmas. 
 
-O objetivo é fazer com que a classe Main disponibilizada seja executada produzindo como saída o descrito ao final deste documento. A interface IImprimível e a classe Relatório também já estão prontas e disponíveis para uso.
+O objetivo é fazer com que a classe [Main](main.cs) disponibilizada seja executada produzindo como saída os relatórios apresentados ao final deste documento. A interface [IImprimível](IImprimivel.cs) e a classe [Relatório](relatorio.cs) também já estão prontas e disponíveis para uso.
 
 ## Classes a serem implementadas
 
@@ -30,7 +30,7 @@ Para o bom desenvolvimento desta tarefa você deverá fazer uso dos seguintes co
  - Classes
  - Objetos
  - Métodos
- - ConstrutoresWS
+ - Construtores
  - Sobrescrita
  - Herança
  - Interfaces
